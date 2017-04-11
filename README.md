@@ -9,6 +9,18 @@ other written work.
 OSIC contributors can consult the resources in this repository when searching
 for documentation or information architecture resources and instructions.
 
+Following are the members of the team:
+
+* **Senior Manager: Laura Clymer (IRC: onthecly)**
+
+* Lana Brindley (IRC: loquacities) - OSIC doc team manager
+
+  * Alexandra Settle (IRC: asettle) - Information Developer, PTL for OpenStack manuals
+  * Brian Moss (IRC: bmoss) - Information Architect, Tooling
+  * Darren Chan (IRC: darrenc) - Information Architect
+  * Joseph Robinson (IRC: JRobinson_) - Information Developer
+  * Ianeta Hutchinson (IRC: iphutch) - Technical Writer
+
 ## Blog writing
 
 Development for OSIC enlists developers with a variety of backgrounds, working
@@ -21,17 +33,6 @@ posts.
 Research to solve challenges that users and businesses face
 represents another OSIC project. This repository contains resources on how to
 create white papers with data gathered from that research.
-
-Following are the members of the team:
-
-* **Senior Manager: Laura Clymer (IRC: onthecly)**
-
-* Lana Brindley (IRC: loquacities) - OSIC doc team manager
-  * Alexandra Settle (IRC: asettle) - Information Developer, PTL for OpenStack manuals
-  * Brian Moss (IRC: bmoss) - Information Architect, Tooling
-  * Darren Chan (IRC: darrenc) - Information Architect
-  * Joseph Robinson (IRC: JRobinson_) - Information Developer
-  * Ianeta Hutchinson (IRC: iphutch) - Technical Writer
 
 ## OpenStack documentation
 

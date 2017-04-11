@@ -9,13 +9,13 @@ other written work.
 Following are the members of the team:
 
 * **Senior Manager: Laura Clymer (IRC: onthecly)**
-* Lana Brindley (IRC: loquacities) - Manager of AU team, OSIC manager
 
-  * Alexandra Settle (IRC: asettle) - Information Developer, PTL for OpenStack manuals, OSIC
-  * Brian Moss (IRC: bmoss) - Information Architect, Tooling OSIC
-  * Darren Chan (IRC: darrenc) - Information Architect, OSIC
-  * Joseph Robinson (IRC: JRobinson_) - Information Developer, OSIC
-  * Ianeta Hutchinson (IRC: iphutch) - Technical Writer, OSIC
+* Lana Brindley (IRC: loquacities) - OSIC doc team manager
+  * Alexandra Settle (IRC: asettle) - Information Developer, PTL for OpenStack manuals
+  * Brian Moss (IRC: bmoss) - Information Architect, Tooling
+  * Darren Chan (IRC: darrenc) - Information Architect
+  * Joseph Robinson (IRC: JRobinson_) - Information Developer
+  * Ianeta Hutchinson (IRC: iphutch) - Technical Writer
 
 OpenStack documentation
 ~~~~~~~~~~~~~~~~~~~~~~~

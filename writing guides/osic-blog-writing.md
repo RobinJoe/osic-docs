@@ -1,5 +1,13 @@
 # Writing blogs for OSIC
 
+You can writing the blog in any chose format - Word docx format, Google Doc
+format, or a text editor in bash.
+
+Once you have completed writing, or if you have any questions about the process,
+contact the OSIC blog managers [Daniel Chacon Limon](Daniel.chacon.limon@intel.com) or [Daniel A Serna Martinez](daniel.a.serna.martinez@intel.com).
+
+Blogs are published at [The OSIC website blog page](https://osic.org/blogs).
+
 ## Blog writing suggestions
 
 Before you start writing a blog post for an OSIC topic, consider
@@ -30,7 +38,7 @@ digestible bites.
 Formulas like How to, Top 5 or 10, and curated lists tend to do well.
 
 Consider who is your audience, and “be helpful” rather than trying to
-selling a product or service. Consider how the OSIC development
+sell a product or service. Consider how the OSIC development
 helps the reader.
 
 Use concrete examples whenever possible.
@@ -40,9 +48,9 @@ Bullet points are useful for listing features
 Images can catch readers attention. Can you create a graphic or image, or add a
 screen shot to illustrate your point?
 
-Avoid jargon! Rackers (and the entire tech industry) tend to speak in jargon.
-Unless your post is aimed at a technical audience, use plain English. There
-is never a reason to use business jargon.
+Avoid jargon in your writing. Rackers (and the entire tech industry) tend to
+speak in jargon. Unless your post is aimed at a technical audience, use
+plain language. There is never a reason to use business jargon.
 
 Link link link. First product mention? Link to the product page. Outside
 accolades? Link to it. Citing a study or source or article? Link to it.
